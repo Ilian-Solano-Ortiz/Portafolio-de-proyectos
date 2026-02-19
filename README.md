@@ -25,7 +25,6 @@ Me apasiona construir herramientas que simplifiquen procesos, optimicen flujos d
 - Tecnologías utilizadas: C#, ItextSharp, Winforms
 - 🔗 [Ver repositorio](https://github.com/Ilian-Solano-Ortiz/UnidadPedag-gica_Sistema.git)
 
-*(agregar más proyectos conforme lo suba a GitHub.)*
 
 ---
 
